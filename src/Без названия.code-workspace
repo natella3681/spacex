@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "space",
+			"path": "../.."
+		},
+		{
+			"name": "spacex_layout",
+			"path": "../../../spacex_layout"
+		}
+	],
+	"settings": {}
+}
